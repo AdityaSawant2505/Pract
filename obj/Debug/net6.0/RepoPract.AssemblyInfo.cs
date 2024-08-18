@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepoPract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+484ba9b05e28c82db861ca192c9a229cc4ac7efe")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepoPract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepoPract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
